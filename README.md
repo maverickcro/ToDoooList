@@ -1,3 +1,8 @@
+Todo app using React.
+
+<b> Check demo here: https://maverickcro.github.io/ToDoooList/ </b>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
